@@ -1,4 +1,6 @@
-# reflections-1 ============= Roland Shen Reflections Sept 7, 2013
+# reflections-1 
+============= 
+## Roland Shen Reflections Sept 7, 2013
 
 1) I had a hard time setting up my virtual machine until group leaders in class
 helped me out. Following instructions for downloading ipython and IRC was also
