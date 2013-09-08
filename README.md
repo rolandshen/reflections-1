@@ -1,6 +1,6 @@
-reflections-1
+# reflections-1
 =============
-Roland Shen Reflections Sept 7, 2013
+# Roland Shen Reflections Sept 7, 2013
 
 1) I had a hard time setting up my virtual machine until group leaders in class helped me out. Following instructions for downloading ipython and IRC was also confusing. I understand what I should have done now that I have everything set up, but I feel that the instructions could have been clearer. There was a lot of computer lingo that I couldn't process espectially after I had installed the VM VirtualBox. I didn't know how to do anything in homework-1 after the installation.
 
