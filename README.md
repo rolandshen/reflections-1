@@ -27,3 +27,21 @@ problem, someone else would probably also have the same problem and maybe
 figured out a way to solve it by the time you ask. I didn't know what to do for
 this week's reflection so I went onto IRC and asked. Someone told me
 instructions to come to this page and post.
+
+## Roland Shen Reflections Sept 17, 2013
+
+I was unaware that there would be a second reflection this week. I feel that our
+class discussion in Thursday's section covered the main points that the course
+should improve on. As far as communication between staff and student goes, I was
+unsure whether we should submit anything if we did not do anything programming
+related in class for the week. I also did not know if we should attach the 
+second reflection to the first or to create a new repository. Again, not having 
+a set assignment schedule can be confusing but we went over this in class.
+
+I still have not felt an "A-ha!" moment in this course but hopefully when the
+class starts to pick up next Tuesday there will be more opportunities to learn
+new material.
+
+Again there was no new material this week and as such I wouldn't have done
+anything different. I'm glad that the GSIs are hosting office hours from 9am-
+noon on Friday so that everyone can be on the same page.
