@@ -1,5 +1,24 @@
 # reflections-1 
 ============= 
+## Roland Shen Reflections Sept 28, 2013 
+# What are your thoughts on reproducibility? 
+
+I think reproducibility is a great idea for people who are interested in
+research and making an impact within the academic community. It allows for
+others to understand your work step by step and to be able to create the same
+results from your findings. Although I might not be interested in doing
+research, I believe that reproduceability is important even within the
+workplace. If I had to complete a project within a company, I would like to be
+able to reproduce the same quality work later if a similar project shows up
+again. I wouldn't want my first successful project to be a product of luck and I
+would want to be absolutely sure that if I followed the same steps from the
+previous project, then the current project would yield the same results. The
+strongest justification for the opposite view is that some measurements in data
+are variable based, that even though all the steps are carefully recorded and
+followed, different results can appear. For such experiments or processes, it is
+important to say at the beginning of a process that there will be variations in
+findings but only because that is the nature of the research at hand.
+
 ## Roland Shen Reflections Sept 21, 2013
 
 We only had two classes with guest lecturers this week. I don't know if there
