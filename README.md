@@ -1,5 +1,38 @@
 # reflections-1 
 ============= 
+## Roland Shen Reflections Oct 4, 2013
+# Stark Notes Included
+Measure earthquake as a stochastic process using poisson process and memoryless
+properties to predice earthquakes estimate how big earthquakes are using moments
+in physics earthquake probability is a metaphor claims that events occur as if
+in a casino game, why not like terrorism instead? 
+La quila earthquake in italy 2010 
+Urn model is just an assumption, just because there is a rate that there is a 
+probability
+
+Analogy of earthquake prediction to weather prediction obviously you would
+predict differently based on past events like if it rains today, it is more
+likely to rain tomorrow than it would in a summer. If an earthquake happens,
+aftershocks will be more likely to happen.
+
+
+**Assuming that something is random is a big assumption to make
+
+I think that this week was a vast improvement from last week.
+I had a hard time setting up virtual machine because I forgot my password on the
+VM that I had already downloaded. That was easily fixed though, along with the
+local port.
+
+An aha moment that I had this week was when Professor Stark talked about how we
+should treat earthquake occurances. Now that we know how earthquake prediction
+works and the consequences of those who try to predict earthquakes and fail
+really puts this class into perspective when it comes to reproducibility and
+statistical analysis.
+
+We have a goal that we can work toward in our groups and we also now have a
+schedule that we can follow. I am looking forward to next week's presentations
+on Tuesday and working with my group over the weekend.
+
 ## Roland Shen Reflections Sept 28, 2013 
 # What are your thoughts on reproducibility? 
 
