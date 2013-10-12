@@ -1,5 +1,28 @@
 # reflections-1 
 ============= 
+## Roland Shen Reflections Oct 12, 2013 
+# Group Project 1
+1) The group project was a good change of pace from all that we have done so
+far. We were thrown into the fire and had to collaborate with our team of four
+to survive on such short notice. This forced us as students to focus on this
+class and put it as a priority over other classes and I learned more about
+iPython Notebook through this exercise than through any lecture beforehand.
+
+2) My "aha!" moment of the week was when I figured out how to run iPython
+Notebook from my VM. I also learned about background and foreground processes
+from my technical lead (who also happened to be in my group) so that I could run
+iPython Notebook in the background while working on other things in the
+foreground. I never knew such a thing existed and I hope to learn more as the
+class progresses.
+
+3) If I were to take a different approach this week, it would be to start on the
+group project sooner. We talked over email a little bit after Thursday but we
+did not meet up as a group until Sunday at Aaron's office hours, which was
+poorly planned. Starting sooner would have allowed for us to sooner encounter
+the setbacks we had and we could have produced a better end product. I know
+perfection is the enemy but seeing the other groups' projects made me feel that
+ours was a bit lackluster.
+
 ## Roland Shen Reflections Oct 4, 2013
 # Stark Notes Included
 Measure earthquake as a stochastic process using poisson process and memoryless
