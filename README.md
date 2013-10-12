@@ -1,4 +1,4 @@
-# reflections-1 
+# reflections
 ============= 
 ## Roland Shen Reflections Oct 12, 2013 
 # Group Project 1
