@@ -1,5 +1,6 @@
 # reflections
-# Roland Shen Reflections Oct 26, 2013  ## Horizontal Groups 1) I believe that
+# Roland Shen Reflections Oct 26, 2013  
+## Horizontal Groups 1) I believe that
 having a sign-in sheet would be beneficial in increasing class attendance.
 Although I feel like I learn more from office hours than in lecture, attending
 lecture gives the class a structure to base our work around. Attributing signing
