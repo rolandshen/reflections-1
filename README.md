@@ -18,6 +18,49 @@ hours. I couldn't this weekend because I lost my phone and had to go home for
 the weekend to get a new one. Hopefully I didn't miss anything important. I also
 could have spent more time learning python.
 
+#Roland Shen Reflections Oct 19, 2013  
+1) I liked how we learned about new forms
+of programming in JSON and HTML 5, and how we can incorporate these into our
+learning of python. Stark's lecture also provided us with knowledge on what we
+are actually doing for this project. The facts about earthquake prediction
+helped a lot during our discussion and visualization of earthquake data for our
+group project. Also, sudo apt-get install python-dev is needed to install pandas
+and is a useful line of code.
+
+2) I had many "a-ha!" moments this week, especially during office hours. I
+helped my group members and classmates in other groups pull request their
+reflections and by teaching them how to maneuver through github, I had a better
+understanding of how to go through github myself. My groupmate Khoa also found a
+nice python package called folium and we used that in our project to show
+earthquake positions (longitude, latitude) on a world map. Teresa made a great
+point about collecting Stark notes on a github page as opposed to a google doc.
+Just create a stat157 repository for Stark notes and then have everyone fork and
+pull request individual notes onto the repository so that everyone can have easy
+access without having to click on a google doc link.
+
+3)  If I were to change anything from this week, it would be to focus more at
+the beginning of the Stark lecture. I learned a lot from his presentation but
+more towards the end when he started to bust out all the models in formula form.
+Paying attention at the beginning of the lecture would probably provide more
+insight into the "why" instead of the "how."
+
+Stark Notes below: poisson, gamma renewal models dont fit stoichastic seismic
+data bigger events have smaller windows, shorter event times
+
+automatic alarm: after every event with M > mu start an alarm of duration tau no
+free parameters
+
+magnitude-dependent automatic alarm (MDA) afte every event with M > mu start an
+alarm of duration tau*u^M 1 free parameter ^none of this stuff is physics based
+
+For both adjust fraction of time covered by alarms through tau
+
+ETAS model in Luen PhD Dissertation
+
+project in a nutshell, get a model that is better than ETAS at all points
+
+Gutenberg-Richter law for magnitudes  Omori-Utsu law for aftershocks
+
 ============= 
 ## Roland Shen Reflections Oct 12, 2013 
 # Group Project 1
